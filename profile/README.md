@@ -1,12 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/886686024393187438/1265320777222324255/logo.png?ex=66a1154d&is=669fc3cd&hm=df017caee970bd8dd9336132ff2eddf115fe58507ab9a4d49077fb54d0efc18b&" width="200" />
+</p>
 
-<!--
+<h1 align="center">
+  Low Racing
+</h1>
 
-**Here are some ideas to get you started:**
+<p align="center">
+O LowRacing é um jogo de corrida para computadores, que tenta abranger o maior público e apresenta funcionalidades únicas. Somos todos jogadores, e por isso sabemos as necessidades e como executá-las! Garantimos a dedicação e carinho para transformar o LowRacing em uma experiência única.
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+<strong>🚧 LowRacing está em desenvolvimento 🚧</strong>
+</p>
